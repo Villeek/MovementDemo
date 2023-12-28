@@ -5,6 +5,9 @@ Goal of the project was to explore using custom character movement component in 
 
 All but Control Rig(and Anim) graph is implemented in C++, for easy code reading without needing to open the project in Unreal Editor.
 
+## Youtube Video (click to open)
+[![Link to Youtube](https://img.youtube.com/vi/9pD4vd3b_Ss/0.jpg)](https://www.youtube.com/watch?v=9pD4vd3b_Ss)
+
 # Features
 ### Modified Character and Character Movement Component with:
 - Sprinting, built into PhyWalking movement mode.
